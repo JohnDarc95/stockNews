@@ -10,7 +10,6 @@ public class HelloWorld
 
         x = Console.ReadLine();
 
-
         Console.WriteLine(x);
     }
 }
