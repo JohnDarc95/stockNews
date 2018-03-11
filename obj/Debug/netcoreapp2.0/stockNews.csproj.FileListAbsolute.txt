@@ -1,0 +1,10 @@
+/home/john/Desktop/stockNews/bin/Debug/netcoreapp2.0/stockNews.deps.json
+/home/john/Desktop/stockNews/bin/Debug/netcoreapp2.0/stockNews.runtimeconfig.json
+/home/john/Desktop/stockNews/bin/Debug/netcoreapp2.0/stockNews.runtimeconfig.dev.json
+/home/john/Desktop/stockNews/bin/Debug/netcoreapp2.0/stockNews.dll
+/home/john/Desktop/stockNews/bin/Debug/netcoreapp2.0/stockNews.pdb
+/home/john/Desktop/stockNews/obj/Debug/netcoreapp2.0/stockNews.csproj.CoreCompileInputs.cache
+/home/john/Desktop/stockNews/obj/Debug/netcoreapp2.0/stockNews.AssemblyInfoInputs.cache
+/home/john/Desktop/stockNews/obj/Debug/netcoreapp2.0/stockNews.AssemblyInfo.cs
+/home/john/Desktop/stockNews/obj/Debug/netcoreapp2.0/stockNews.dll
+/home/john/Desktop/stockNews/obj/Debug/netcoreapp2.0/stockNews.pdb
